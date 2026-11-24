@@ -1,0 +1,28 @@
+Origin: TurboTV
+Label: TurboTV
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: TurboTV Cydia repository
+Date: Tue, 24 Nov 2026 23:02:16 UTC
+
+MD5Sum:
+ 9662d99a4ca11588b4988b22d5a9266b 892 Packages
+ 28e7f2f6e3cfe6b82aa52c2ea2f61ce8 578 Packages.gz
+ d9fe7a710149e6f6ccbf6d9f41da8c1f 638 Packages.bz2
+ 1b67e27cc94dea0e40e1ac064c433e60 652 Packages.xz
+ 6bdde0a6f5edfee1333acfda92db6dd3 27688 vietqr.png
+SHA1:
+ b08a5c10239aabd5b77b890f2e7e17af6fedd124 892 Packages
+ 7ea37dd9b972f8f3be1b57ca1485ac404e2c2ea9 578 Packages.gz
+ 0134830455287189dc810e8c8e157e4245b1ffef 638 Packages.bz2
+ 977751598950f68757d83feab526bcfba9a65511 652 Packages.xz
+ e3b533e7ede92eca27570ee07bffbd3b49eaaad9 27688 vietqr.png
+SHA256:
+ 5dd369a45ee0c0f8b62ff236890b1849092fe2ae33ff13d7ce52dd29ffd3c1b6 892 Packages
+ 1af557bb893d15c63b0c6330cc8f79ceeced57322e9ce366ac617f376c01523a 578 Packages.gz
+ 15b5af3f09318e507c27440d835edceec73d48ff955290e9dc64dc1b86e46cbf 638 Packages.bz2
+ cdc22c07d6327e23b0c05e7a83edc0280f12ea29f3b50ba2131e4e2921f57003 652 Packages.xz
+ 22fc6b0f49a3e45751d5d59544d1413577b5ff437f59127c2109e6b7cf03de67 27688 vietqr.png
