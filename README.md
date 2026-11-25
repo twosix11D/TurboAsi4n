@@ -14,21 +14,23 @@ https://twosix11d.github.io/turboasi4n/
 - **Sileo:** Sources → dấu `+`, dán URL → Add Source, rồi Refresh.
 - **Zebra:** Sources → Add, dán URL → Add.
 
-Rồi vào repo **TurboTV** và cài **TurboTV 1.17.8**.
+Rồi vào repo **TurboTV** và cài **TurboTV 1.17.9**.
 
 ## Tải trực tiếp file .deb
 
-[debs/com.bun.tubepro_1.17.8_iphoneos-arm.deb](debs/com.bun.tubepro_1.17.8_iphoneos-arm.deb) (2.972.660 byte, MD5 `58b52862eb43e7139e64a2a39987dd15`)
+[debs/com.bun.tubepro_1.17.9_iphoneos-arm.deb](debs/com.bun.tubepro_1.17.9_iphoneos-arm.deb) (2973732 byte, MD5 `91c3c7d4f89b9d98feeaad3df83e35b7`)
 
 Chép file .deb sang iPad rồi mở bằng Filza → Cài đặt → Respring.
+
+Nếu cài bằng lệnh `dpkg -i` mà icon chưa hiện thì respring 1 lần.
 
 ## Phiên bản hiện có
 
 | Gói | Phiên bản | Có gì mới |
 |---|---|---|
-| com.bun.tubepro (TurboTV) | 1.17.8 | Sửa nút răng cưa mất tác dụng; gợi ý video liên quan lên ngay dưới video; chống văng trên máy cũ 32-bit; video ghim cố định phía trên khi lướt bình luận. |
+| com.bun.tubepro (TurboTV) | 1.17.9 | Sửa lỗi cài đặt trên Cydia; icon app hiện lại trên màn hình chính sau khi cài; sửa nút răng cưa mất tác dụng; gợi ý video liên quan lên ngay dưới video; chống văng trên máy cũ 32-bit. |
 
-Các bản trước: 1.17.5 (sửa lỗi lúc xem được lúc báo lỗi; đăng nhập Google hết im lặng; menu phát, màn Cài đặt riêng, vuốt xuống thu nhỏ video, nhấn giữ phát nhanh 2x, Shorts tải nhanh hơn, mini player thẻ nổi); 1.17.4 (dùng được trên iPhone/iPod touch); 1.17.3 (sửa lỗi lúc xem được lúc báo lỗi; sửa phát nền im khi bấm Home); 1.17.2 (Back thu nhỏ mini player; lặp lại video; bấm Home tự vào hình trong hình); 1.17.1 (thêm mục ủng hộ); 1.17 (live 1080p, mở trang kênh, hẹn giờ tắt video, 10 ngôn ngữ).
+Các bản trước: 1.17.8 (sửa nút răng cưa mất tác dụng; gợi ý video liên quan lên ngay dưới video; chống văng trên máy cũ 32-bit); 1.17.5 (sửa lỗi lúc xem được lúc báo lỗi; đăng nhập Google hết im lặng; menu phát, màn Cài đặt riêng, vuốt xuống thu nhỏ video, nhấn giữ phát nhanh 2x, Shorts tải nhanh hơn, mini player thẻ nổi); 1.17.4 (dùng được trên iPhone/iPod touch); 1.17.3 (sửa lỗi lúc xem được lúc báo lỗi; sửa phát nền im khi bấm Home); 1.17.2 (Back thu nhỏ mini player; lặp lại video; bấm Home tự vào hình trong hình); 1.17.1 (thêm mục ủng hộ); 1.17 (live 1080p, mở trang kênh, hẹn giờ tắt video, 10 ngôn ngữ).
 
 ## Tính năng chính
 
@@ -47,4 +49,4 @@ TurboTV là app miễn phí. Nếu thấy hữu ích, ủng hộ nhà phát tri�
 
 ## English summary
 
-TurboTV is a YouTube app for old iPhones and iPads (iOS 5 and up) — 1080p playback, mini player, picture-in-picture, background audio, sleep timer, Google sign-in, 10 languages. Add this source in Cydia, Sileo or Zebra: `https://twosix11d.github.io/turboasi4n/` — then install TurboTV 1.17.8. Free app; donations via [paypal.me/turboasi4n](https://paypal.me/turboasi4n) or the VietQR code above.
+TurboTV is a YouTube app for old iPhones and iPads (iOS 5 and up) — 1080p playback, mini player, picture-in-picture, background audio, sleep timer, Google sign-in, 10 languages. Add this source in Cydia, Sileo or Zebra: `https://twosix11d.github.io/turboasi4n/` — then install TurboTV 1.17.9. Free app; donations via [paypal.me/turboasi4n](https://paypal.me/turboasi4n) or the VietQR code above.
